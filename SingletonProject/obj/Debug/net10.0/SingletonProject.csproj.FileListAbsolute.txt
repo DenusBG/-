@@ -1,0 +1,14 @@
+D:\Любов Шостак\SingletonProject\bin\Debug\net10.0\SingletonProject.exe
+D:\Любов Шостак\SingletonProject\bin\Debug\net10.0\SingletonProject.deps.json
+D:\Любов Шостак\SingletonProject\bin\Debug\net10.0\SingletonProject.runtimeconfig.json
+D:\Любов Шостак\SingletonProject\bin\Debug\net10.0\SingletonProject.dll
+D:\Любов Шостак\SingletonProject\bin\Debug\net10.0\SingletonProject.pdb
+D:\Любов Шостак\SingletonProject\obj\Debug\net10.0\SingletonProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Любов Шостак\SingletonProject\obj\Debug\net10.0\SingletonProject.AssemblyInfoInputs.cache
+D:\Любов Шостак\SingletonProject\obj\Debug\net10.0\SingletonProject.AssemblyInfo.cs
+D:\Любов Шостак\SingletonProject\obj\Debug\net10.0\SingletonProject.csproj.CoreCompileInputs.cache
+D:\Любов Шостак\SingletonProject\obj\Debug\net10.0\SingletonProject.dll
+D:\Любов Шостак\SingletonProject\obj\Debug\net10.0\refint\SingletonProject.dll
+D:\Любов Шостак\SingletonProject\obj\Debug\net10.0\SingletonProject.pdb
+D:\Любов Шостак\SingletonProject\obj\Debug\net10.0\SingletonProject.genruntimeconfig.cache
+D:\Любов Шостак\SingletonProject\obj\Debug\net10.0\ref\SingletonProject.dll
